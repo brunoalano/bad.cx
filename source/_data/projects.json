@@ -1,0 +1,22 @@
+[
+   {
+      "name":"datrie",
+      "url":"https://github.com/brunoalano/datrie",
+      "desc":"Fast TRIE data structure for Strings"
+   },
+   {
+      "name":"HDBSCAN",
+      "url":"https://github.com/scikit-learn-contrib/hdbscan",
+      "desc":"A high performance implementation of HDBSCAN clustering."
+   },
+   {
+      "name": "ECC Network",
+      "url":"https://github.com/project-ecc/eccoin",
+      "desc":"ECC is an open-source, innovative multi-chain platform."
+   },
+   {
+      "name": "datrie",
+      "url":"https://github.com/brunoalano/datrie",
+      "desc":"High performance Trie structrure for Python."
+   }
+]
